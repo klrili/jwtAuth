@@ -1,0 +1,40 @@
+.navlink {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+}
+button {
+  width: 380px;
+  height: 45px;
+  background: #000000;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  border-radius: 10px;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+
+h1 {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 26px;
+  line-height: 31px;
+  color: #ffffff;
+  margin: 0;
+}
+h2 {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 26px;
+  line-height: 31px;
+  color: black;
+  margin: 0;
+  margin-bottom: 30px;
+}
+a {
+  text-decoration: none;
+}
